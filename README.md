@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+nálisis de cómo una  colección de  herramientas  puede ayudar a defensores, activistas y periodistas a realizar su labor en lugares con poco o nulo acceso a Internet.
 
-You can use the [editor on GitHub](https://github.com/PhiRequiem/offline-server-for-documentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A través de mi experiencia trabajando con distintos grupos he notado que existen contextos hostiles para el trabajo de documentación que hacen algunos defensores y periodistas, algunos de los contextos que he identificado podrían ser los siguientes:
+El trabajar en regiones con poco o nulo acceso a Internet lo cual dificulta el trabajo colaborativo y el resguardo de información.
+La necesidad de mantener fuera de la "nube" la documentación de casos por considerarse información extremadamente sensible.
+La cobertura de eventos donde se limita el acceso a Internet, ya sea por saturación o bloqueo intencionado, por ejemplo marchas. (en este último caso es común el robo y el decomisado de dispositivos).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En estos casos existe una limitante tecnológica, ya sea por recursos y/o conocimiento, sin embargo, el uso de tecnologías existentes permite generar una solución sencilla y económica.
 
-### Markdown
+Una solución es crear una caja de herramientas open source con perspectiva de seguridad digital para la documentación "Servidor Offline".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhiRequiem/offline-server-for-documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Esta investigación pretende entender puntualmente esta problemática validar en campo algunas de las soluciones tecnológicas.
